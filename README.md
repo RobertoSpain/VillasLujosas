@@ -1,2 +1,2 @@
 # VillasLujosas
-Proyecto Final de Diseño de Interfaces
+Proyecto Final de Diseño de Interfaces con Sass
